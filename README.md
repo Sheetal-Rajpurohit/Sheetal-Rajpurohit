@@ -60,6 +60,14 @@
 
 ---
 
+### 🚀 Projects
+
+
+- 🧩[Comic Generator](https://github.com/Sheetal-Rajpurohit/Comic-Generator) – A tool that transforms your story text into comic panels using AI.
+- 🌍[IoT-Based Health Monitoring Device](https://github.com/Sheetal-Rajpurohit/IOT-Based-Health-Monitoring-Device) – Real-time health tracking system using IoT sensors and microcontrollers.
+
+---
+
 ### 🔗 Let's Connect
 
 <p>
